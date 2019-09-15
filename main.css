@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+html {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#header {
+
+}
+
+.column {
+    float: left;
+    width: 100%;
+}
+
+.circle img {
+    border-radius: 50%;
+}
